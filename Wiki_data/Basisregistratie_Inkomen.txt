@@ -1,0 +1,18 @@
+
+<doc id="2411348" url="https://nl.wikipedia.org/wiki?curid=2411348" title="Basisregistratie Inkomen">
+Basisregistratie Inkomen
+
+De Basisregistratie Inkomen (BRI) is een basisregistratie die sinds 1 januari 2009 in Nederland bestaat en is vastgelegd in hoofdstuk IVA (art. 21 t/m 21k) van de Algemene wet inzake rijksbelastingen (AWR). Hierin zijn inkomensgegevens met bijbehorende temporele en meta-kenmerken opgenomen. Het inkomensgegeven is een authentiek gegeven.
+Het inkomensgegeven van een persoon en kalenderjaar is:
+De inspecteur is de basisregistratiehouder. Hij draagt zorg voor de juistheid, volledigheid en actualiteit van de inkomensgegevens. De inspecteur plaatst de aantekening "in onderzoek" bij een inkomensgegeven indien ten aanzien van dat inkomensgegeven een terugmelding is gedaan, een bezwaar- of beroepschrift is ingediend, een verzoek om ambtshalve vermindering is ingediend, of overigens gerede twijfel is ontstaan omtrent de juistheid van dat gegeven.
+De Basisregistratie Inkomen heeft tot doel de afnemers (bevoegde bestuursorganen) te voorzien van inkomensgegevens. Daardoor hoeft de betrokkene zijn inkomen niet zelf aan een afnemer op te geven. Toepassingen:
+Belastingdienst/Toeslagen (het toetsinginkomen is het inkomensgegeven; in voorkomende gevallen gaat het om het gezamenlijke inkomen en worden dus inkomensgegevens opgeteld):
+Artikel 20 van de Algemene wet inkomensafhankelijke regelingen bepaalt dat op herziening van het inkomensgegeven altijd herziening van de tegemoetkomingen volgt.
+Dienst Uitvoering Onderwijs:
+Raden voor de rechtsbijstand:
+CAK BZ:
+Huurprijzen van woonruimte:
+In het "Bijdragebesluit zorg" wordt niet rechtstreeks het geregistreerde inkomen in aanmerking genomen, maar wordt naar de twee bovengenoemde gevallen (verzamelinkomen vs. belastbaar loon) apart verwezen. Vervolgens wordt daar een bijdrageplichtig inkomen van afgeleid, zie eigen bijdrage AWBZ.
+Voor zover een inkomensgegeven ten grondslag ligt aan een besluit van een afnemer wordt het bekendgemaakt en verenigd in één geschrift met dat besluit.
+Belastingdienst/Centrale Administratie (B/CA) is de centrale beheerder. Dit onderdeel van de Belastingdienst is verantwoordelijk voor de centrale massale verstrekking van het inkomensgegeven. Via B/CA krijgen afnemers het inkomensgegeven verstrekt en een terugmelding van een afnemer komt ook bij B/CA binnen. B/CA draagt er vervolgens zorg voor dat binnen de Belastingdienst de juiste inspecteur de terugmelding in behandeling neemt. Het resultaat van het onderzoek naar aanleiding van een terugmelding wordt eveneens via B/CA aan de afnemer op verzoek gemeld.
+

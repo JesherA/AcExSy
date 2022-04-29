@@ -1,0 +1,12 @@
+
+<doc id="381170" url="https://nl.wikipedia.org/wiki?curid=381170" title="Hubbleconstante">
+Hubbleconstante
+
+De hubbleconstante is de constante in de wet van Hubble. Het is de verhouding van de snelheid waarmee een bepaalde afstand groter wordt door de metrische uitdijing van de ruimte en de grootte van die afstand. In het bijzonder is het de verhouding tussen de snelheid waarmee een ver verwijderd sterrenstelsel zich van ons af beweegt en de afstand tot dat sterrenstelsel. De omgekeerde van de hubbleconstante heeft de dimensie van tijd, de hubbletijd.
+Hoewel de hubbleconstante een constante heet, is deze in werkelijkheid variabel in de tijd. De daadwerkelijke constante is de huidige waarde; voor de algemene waarde wordt wel de naam Hubbleparameter gebruikt.
+De eenheid waarin de hubbleconstante meestal wordt weergegeven is km/s per megaparsec. 
+De bepaling van de waarde gebeurt door de roodverschuiving van het licht te vergelijken met de afstand: zie Wet van Hubble-Lemaître. Een bepaling van de hubbleconstante uit 2001 geeft een waarde van 72 ± 8 km/(s·Mpc), 
+Recent wordt een andere methode gebruikt vertrekkend van de kosmische achtergrondstraling (CMB): de metingen van de WMAP gaven een waarde van 71 km/(s·Mpc), de Planckmissie geeft 67,15 ± 1,2 km/(s·Mpc).. 
+Het verschil tussen beide schattingen heeft te maken met de leeftijd van het heelal, door WMAP gesteld op 13,7 miljard jaar, maar op 21 maart 2013 door de Planckmissie bijgesteld naar 13,8 miljard jaar.
+Hoe ver het heelal zich ook uitstrekt voorbij de waarnemingshorizon, en hoe groot ook de werkelijke uitdijsnelheid is van het totale universum, toch blijft dit de huidige waarde van de hubbleconstante. Op een bepaalde afstand gezien vanuit de waarnemer, lopen zowel de snelheid van de fysieke uitdijing en de lichtsnelheid met elkaar in de pas. Hierdoor blijven steeds dezelfde objecten op de grens van het waarneembaar heelal.
+

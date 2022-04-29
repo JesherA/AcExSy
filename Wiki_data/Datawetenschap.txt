@@ -1,0 +1,12 @@
+
+<doc id="4804593" url="https://nl.wikipedia.org/wiki?curid=4804593" title="Datawetenschap">
+Datawetenschap
+
+Datawetenschap, vaak ook onvertaald in het Engels: data science, is een interdisciplinair onderzoeksveld met betrekking tot wetenschappelijke methoden, processen en systemen om kennis en inzichten te onttrekken uit (zowel gestructureerde als ongestructureerde) data. 
+Datawetenschap is een concept om statistieken, data-analyse en aanverwante methoden te verenigen. Het maakt gebruik van technieken en theorieën ontleend aan vele disciplines binnen het brede gebied van de wiskunde, statistiek, informatiekunde en computerwetenschappen. In het bijzonder de subdomeinen van machinaal leren, classificatie, cluster-analyse, datamining, databases, en visualisatie zijn belangrijke hulpvakken.
+Turing awardwinnaar Jim Gray beschouwt datawetenschap als de "vierde" paradigma van de wetenschap, naast empirie, theorievorming en computationaliteit. Hij veronderstelt dat wetenschap verandert vanwege de impact van informatietechnologie en de overvloed aan data.
+Stichtingen.
+Datawetenschap is een interdisciplinair vakgebied dat zich richt op het extraheren van kennis uit datasets, die doorgaans groot zijn (zie big data), en het toepassen van de kennis en bruikbare inzichten uit data om problemen in een breed scala van toepassingsdomeinen op te lossen.
+Het veld omvat het voorbereiden van gegevens voor analyse, het formuleren van datawetenschapsproblemen, het analyseren van gegevens, het ontwikkelen van gegevensgestuurde oplossingen en het presenteren van bevindingen om beslissingen op hoog niveau in een breed scala van toepassingsdomeinen te informeren. Als zodanig omvat het vaardigheden uit de informatica, statistiek, informatiewetenschap, wiskunde, informatievisualisatie, gegevensintegratie, grafisch ontwerp, complexe systemen, communicatie en het bedrijfsleven. 
+Statisticus Nathan Yau, gebaseerd op Ben Fry, koppelt datawetenschap ook aan interactie tussen mens en computer: gebruikers moeten intuïtief gegevens kunnen controleren en onderzoeken. In 2015 identificeerde de American Statistical Association databasebeheer, statistieken en machine learning, en gedistribueerde en parallelle systemen als de drie opkomende fundamentele professionele gemeenschappen.
+
