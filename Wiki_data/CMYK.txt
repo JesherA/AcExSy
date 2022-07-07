@@ -1,8 +1,0 @@
-
-<doc id="10113" url="https://nl.wikipedia.org/wiki?curid=10113" title="CMYK">
-CMYK
-
-CMYK (cyan, magenta, yellow, key) (uitspraak: /smaɪk/) is een systeem om met vier basiskleuren, inclusief zwart, een groot aantal kleuren te kunnen verkrijgen door subtractieve kleurmenging. Dit systeem wordt vooral gebruikt bij drukinkten. Ook komt soms het CMY-systeem voor, waarbij geen zwart wordt gebruikt. Echter in druktechniek leidt dit doorgaans tot te lichte afbeeldingen, omdat de resultante van pure cyaan, magenta en geel donkergrijs is. Verder wordt de combinatie van die drie kleuren vaak een beetje bruinachtig, in plaats van echt zwart. Daarnaast kan het substraat doorweekt raken met inkt bij een combinatie van 100% cyaan, magenta en geel.
-Bij meerkleurendruk betekent "key plate" de drukplaat met de 'artistieke details', dat wil zeggen de lijnen en effecten (in tegenstelling tot kleur-vlakken). Deze details worden gewoonlijk in de donkerste kleur gedrukt, dus bij de vierkleurendruk CMYK in zwart.
-De CMYK-code voor een kleur wordt weergegeven door het dekkingspercentage van de vier inkten die nodig zijn om die kleur te verkrijgen. Wanneer we de basiskleuren langs drie assen uitzetten, krijgen we de CMYK-kleurenkubus.
-
