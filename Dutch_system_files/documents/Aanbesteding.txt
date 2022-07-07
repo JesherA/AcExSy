@@ -1,0 +1,38 @@
+
+<doc id="144699" url="https://nl.wikipedia.org/wiki?curid=144699" title="Aanbesteding">
+Aanbesteding
+
+Een aanbesteding is een inkoopmethode waarbij een opdrachtgever een voorgenomen opdracht bekendmaakt. In de bekendmaking staat een programma van eisen waarin de eisen staan beschreven die de opdrachtgever aan het product of de dienst stelt. Aanbieders kunnen zich inschrijven op de aanbesteding door een offerte in te dienen. In de offertes staat in de regel onder andere voor welke prijs en overige voorwaarden de aanbieder de uitvoering van de opdracht aanbiedt. Daarnaast kan de opdrachtgever van aanbieders vragen om in de offerte op de kwalitatieve aspecten van de uitvoering van de opdracht in te gaan. Op een vooraf bepaalde datum sluit de inschrijving. Daarna selecteert de opdrachtgever de aanbieder die de opdracht krijgt op basis van de vooraf opgestelde criteria, bijvoorbeeld de laagste prijs/kosten of de beste prijs-kwaliteitverhouding. Het verlenen van de opdracht wordt in de context van een aanbesteding "gunning" genoemd.
+Het doel van het aanbestedingsbeleid is tweeledig: zowel om concurrentie tussen de aanbieders te stimuleren, als om alle geïnteresseerde partijen een gelijke kans te geven de opdracht te verkrijgen.
+Algemeen.
+De opdracht kan zijn (een combinatie van):
+Indien een opdrachtgever kiest voor het inkopen van een opdracht middels een aanbesteding gaat het meestal om relatief grote opdrachten. Bij kleinere opdrachten wordt meestal een beperkt aantal leveranciers of aannemers uitgenodigd om een offerte te doen. Dit noemt men wel 'onderhands aanbesteden'. 
+Aanbestedingen worden vooral - maar niet uitsluitend - door overheidsinstanties toegepast. Daarvoor zijn voornamelijk twee redenen:
+Wetgeving in Europa.
+De aanbestedingsrichtlijnen liggen vast in wetgeving afkomstig van de Europese Unie. Deze richtlijnen zijn vertaald in nationale wetgeving, die daar in sommige gevallen een nadere invulling aan geven. Naast een richtlijn over "klassieke aanbestedingssectoren" (de klassieke richtlijn, 2014/24/EU) bestaat er een richtlijn "speciale sectoren" (2014/25/EU) voor opdrachtgevers in de water- en energievoorziening, in het vervoer en in postdiensten (nutssectoren) en een richtlijn voor het gunnen van concessieopdrachten (2014/23/EU).
+De Europese wetgeving op het aanbesteden is van toepassing op organisaties die kwalificeren als 'aanbestedende dienst'. Dat zijn vooral organen van publiekrechtelijke aard die met gemeenschapsgeld handelen en/of onder overheidstoezicht functioneren. Daaronder vallen in Nederland de gemeenten, provincies, waterschappen, het rijk en ook nutsbedrijven en andere sociaal maatschappelijke ondernemingen die onder overheidstoezicht vallen of met gemeenschapsgeld hun activiteiten ondernemen, zoals zorginstellingen en universiteiten.
+Openbare aanbesteding.
+De wet op de overheidsopdrachten in België.
+In België zijn alle administratieve overheden (waaronder gemeenten en de federale overheid) aanbestedingsplichtig. De aanbestedingsplicht is vastgelegd in de Wet op de overheidsopdrachten. Deze wet verplicht de overheid om voor elke opdracht de vrije concurrentie te laten spelen. De wet op de overheidsopdrachten bevat een aantal procedures die ervoor zorgen dat de concurrentie tussen de bedrijven zo veel mogelijk kan spelen.
+Wetgeving in Nederland.
+Per 1 april 2013 is nieuwe aanbestedingsregelgeving van kracht geworden: Aanbestedingswet 2012. De Aanbestedingswet 2012 bestaat uit vier delen:
+De Aanbestedingswet 2012 is een vertaling van de richtlijnen. Voordat deze van kracht werd waren deze vertaald in het Besluit Aanbestedingsregels voor Overheidsopdrachten (BAO) en het Besluit Aanbestedingsregels Speciale Sectoren (BASS). Onlosmakelijk aan de Aanbestedingswet 2012 verbonden is de Gids Proportionaliteit. In het geval van opdrachten voor werken wordt het Aanbestedingsreglement Werken (ARW 2016) gebruikt.
+Soorten aanbestedingen in België volgens de wetgeving geldig vanaf 30 juni 2017.
+Het onderscheid tussen 'aanbesteding' en 'offerteaanvraag' wordt niet meer gemaakt in de algemene wetgeving overheidsopdrachten (wel nog in de specifieke wet die geldt voor defensie-uitgaven).
+Deze procedures laten geen onderhandeling toe en mogen altijd gebruikt worden.
+Procedures die wel onderhandeling toelaten zijn:
+Procedures die mogen ingezet worden in situaties waar het opmaken van sluitende technische specificaties moeilijk of onmogelijk is, zijn:
+Drempelwaarden.
+De drempelwaarden voor Europese aanbestedingen zijn:
+Dit betekent dat de werken-drempel altijd hetzelfde is. Dat geldt niet voor de drempels voor leveringen en voor diensten. Voor zogenaamde 'sociale en specifieke diensten' geldt een separaat drempelbedrag. 
+Boven de toepasselijke drempelwaarde is de aanbestedende overheid verplicht om gebruik te maken van de door de Europese Richtlijn voorgeschreven procedures, tenzij de richtlijn een uitzonderingsgrond bevat. 
+Gunningscriteria en selectiecriteria.
+Bij aanbestedingen worden "selectiecriteria" gebruikt om te kijken welke bedrijven de opdracht zouden kunnen uitvoeren, dat wil zeggen daartoe (het best) in staat zijn. Selectiecriteria zien dus op de geschiktheid van het bedrijf als leverancier, dienstverlener of aannemer. "Gunningcriteria" zijn niet gericht op kenmerken van de inschrijvende bedrijven, maar op kenmerken van de offerte. 
+Selectiecriteria zijn onder andere:
+Mogelijke subgunningscriteria om de economisch meest voordelige inschrijving (EMVI) te bepalen zijn onder meer:
+In een niet-openbare procedure worden eerst de selectiecriteria toegepast (waarmee dan bijvoorbeeld de vijf beste bedrijven worden geselecteerd). In een later stadium, nadat de geselecteerde bedrijven een offerte hebben ingediend, worden de gunningscriteria toegepast op die offertes. In een openbare procedure worden beide typen criteria op één moment toegepast. Voor selectiecriteria kunnen in een openbare procedure geen "punten" worden verdiend, de selectiecriteria kunnen in zo'n procedure dus alleen positief (een bedrijf voldoet eraan) of negatief (een bedrijf voldoet er niet aan) worden beoordeeld. Bij een niet-openbare procedure krijgen bedrijven in de regel wel punten voor de mate waarin voldaan wordt aan de selectiecriteria. Dit heet dan doorselectie en wordt enkel gebruikt om te bepalen welke gegadigden een offerte mogen indienen en welke niet en wordt dus niet gebruikt bij de gunning.
+De aanbestedende dienst moet, bij toepassing van meer subgunningscriteria dan alleen de prijs of kosten, de relatieve weging van alle aspecten aangeven die worden meegenomen bij het bepalen van de economisch meest voordelige inschrijving: bijvoorbeeld 40% van de punten is te verdienen met het gunningssubcriterium "prijs", 60% van de punten is te verdienen met de mate waarin wordt voldaan aan kwaliteitsaspecten en extra prestaties.
+Een andere methode is de methode Gunnen Op Waarde, waarbij de aanbesteder aangeeft hoeveel euro meerwaarde er maximaal op een kwaliteitsaspect (gunningssubcriterium) is te behalen; zie CROW publicatie 253.
+Jurisprudentie.
+Ondernemers kunnen bezwaar maken tegen het (vermeende) handelen of nalaten van een aanbestedende dienst in strijd met de vigerende aanbestedingswet en -regelgeving. Er worden in Nederland wekelijks enkele uitspraken op het gebied van het aanbestedingsrecht gepubliceerd. Verschillende arresten van het Europees Hof van Justitie of de nationale rechter hebben een directe doorwerking in de aanbestedingsprocedures. 
+

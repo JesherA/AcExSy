@@ -1,0 +1,65 @@
+
+<doc id="6372" url="https://nl.wikipedia.org/wiki?curid=6372" title="Computerspel">
+Computerspel
+
+Een computerspel is een elektronisch spel dat op een computer, console of handheld gespeeld wordt. Steeds vaker zijn deze spellen ook voor andere systemen en computers, zoals pda's, mobiele telefoons, smartphones, tablets en draagbare spelcomputers verkrijgbaar.
+Beschrijving.
+Computerspellen met beeldscherm worden videospellen genoemd. Daarnaast zijn er computerspellen die (onder andere) op geluid of op tekst gebaseerd zijn, of computerspellen met een spelbord of andere fysiek sport- of speelmateriaal. "Spel" wordt hier in de ruime zin van het woord gebruikt, waaronder dan ook zogeheten serious games vallen. Zo kunnen spellen voor divertissement en/of voor educatie zijn. Een spel kan solo worden gespeeld en/of met een of meerdere spelers. Bij meerdere spelers kan het spelen om de beurt gaan, of tegelijk, of elke speler kan apart kiezen wanneer hij meedoet, zoals bij een spel waarin gezamenlijk een virtuele wereld wordt opgebouwd.
+Sinds eind jaren 90 zijn er steeds meer computerspellen online beschikbaar zoals schietspellen en massively multiplayer online role-playing games (MMORPG's), als browserspel (een spel dat op een website gespeeld wordt) of als offline-spel (op een opslagmedium zoals dvd).
+Evolutie.
+Met de toegenomen rekensnelheid van computers zijn spellenmakers nieuwe richtingen ingeslagen. Het grafisch ontwerp is verder uitgebreid naar speelfilmachtige elementen met fotorealistisch beeld. Inhoudelijk zijn producenten spelgenres gaan combineren (actiespellen met adventure- of puzzelelementen). Daarnaast is er online gaming: via internetbrowser spelen met, of tegen andere spelers. In de actiespelvariant kunnen internetgamers teams vormen om mee te spelen. In de RPG-variant ontmoeten internetspelers hun medespelers in virtuele werelden waar ze met elkaar kunnen spelen of met elkaar kunnen handelen met spelobjecten.
+Gaming-pc.
+Naast spelconsoles werden eind jaren 90 ook grafische kaarten voor de pc steeds krachtiger. Het was voor de consument mogelijk om deze zelf in te bouwen, om zo een gaming-pc samen te stellen; een type personal computer specifiek ontworpen voor het spelen van computerspellen. Gebruikers werden creatief in de samenstelling van een dergelijke pc, zo bouwde men waterkoeling, displays en gekleurde led's in. Ook afwijkende vormen en kleuren van de computerkast werd vaker zichtbaar.
+Bekende ontwikkelaars.
+Producenten van computerspellen zijn veelal afkomstig uit Noord-Amerika, Groot-Brittannië, Duitsland, Frankrijk en Japan. Enkele grote namen in de industrie zijn bijvoorbeeld Atari, Electronic Arts, Epic, Microsoft, Nintendo, Sega, Sony en Ubisoft. Ook in Nederland doet men al sinds de jaren 80 actief mee in de computerspelindustrie met bedrijven als Radarsoft, Davilex, Denda, Spil en Guerrilla Games.
+In augustus 2018 werd het Chinese Tencent Games wereldwijd de grootste producent van online games.
+Fysiek spel.
+Als een klassiek spel zoals schaken op een computer wordt gespeeld dan wordt het daarmee ook een computerspel. Zoals Deep Blue.
+Interactieve speelobjecten voor kinderen staan in de openbare ruimte zoals in speeltuinen en op schoolpleinen.
+Videospel.
+Een videospel is een computerspel waarbij de spelers spelen via een beeldscherm. De speler bestuurt hierbij meestal een personage door een virtuele omgeving, reagerend op wat hij er aantreft of wat er gebeurt. Op het beeldscherm wordt dit getoond vanuit een overzichtsperspectief of vanuit het perspectief van het personage. In het laatste geval valt het spel onder het begrip virtuele werkelijkheid. Het besturen van de kijkrichting (al of niet automatisch samenvallend met de bewegingsrichting) kan dan gebeuren met een knop of hendel, maar ook, bij gebruik van een head-mounted display, door het draaien van het hoofd.
+Het woord "game".
+Met het populairder worden van het computerspel is het Engelstalige woord game (Engels voor "spel") meer gangbaar geworden als synoniem voor computerspel, gamers voor spelers van computerspellen, en gamen als werkwoord voor het spelen van een computerspel (gesubstantiveerd: "gaming"). Onder retro-gaming wordt verstaan het spelen van oudere (klassieke) computerspellen.
+Productie.
+Nadruk.
+Bij nieuwe commerciële spellen wordt de nadruk meer en meer gelegd op de visuele kant van de spellen ("graphics"). Hier staan vooral Microsoft (met haar Xbox 360) en Sony (met haar PlayStation 3) bekend om. Deze spelcomputers hebben snellere grafische processors en zijn in staat om meer details te tonen.
+Bij andere nieuwe spellen ligt de nadruk juist op hoe het speelt (gameplay) en op de innovatie. Hier staan vooral de consoles van Nintendo (met de Wii en Nintendo 3DS) en voorheen Sega bekend om.
+Ontwikkeling.
+Games worden voor een groot deel door andere softwareontwikkelaars dan de hardwarefabrikant gemaakt. Dit wordt "third-party development" genoemd of ontwikkeling door een derde partij in het Nederlands. Bekende third-party developers zijn bijvoorbeeld Blizzard, Ubisoft en Electronic Arts. De spellen van deze ontwikkelaars worden (soms) op meerdere systemen uitgegeven. "Second-party-developers" ('tweedepartijontwikkelaars') zijn softwarebedrijven waar een gamebedrijf een groot aandeel in heeft. Zo was Rare tot de overname van Microsoft een "second-party-developer" voor Nintendo. "First party developers" ('eerstepartijontwikkelaars') zijn ontwikkelaars van het hardwarebedrijf zelf. Zo worden de Mario-serie spellen door een "first-party" gemaakt (Nintendo EAD en EPD).
+Het ontwikkelen van computerspellen gebeurt door teams met mensen uit allerlei disciplines, voornamelijk grafisch vormgevers en programmeurs, maar bijvoorbeeld ook level designers en muzikanten.
+In de beginperiode van computerspellen werd een computerspel vaak gemaakt door enkele personen die meerdere aspecten van het spel volledig zelf ontwikkelden. De groei aan populariteit van de computerspellen heeft ervoor gezorgd dat de ontwikkeling steeds professioneler wordt aangepakt. Voor commerciële computerspellen was het hierdoor niet meer mogelijk om grote delen van een spel door enkele personen te laten ontwikkelen: men moest over steeds meer vaardigheden en technieken beschikken om een computerspel van hoge kwaliteit te produceren. Elk afzonderlijk aspect van een computerspel wordt tegenwoordig gedaan door specialisten.
+Level design.
+De virtuele wereld waarin een computerspel zich afspeelt, wordt doorgaans onderverdeeld in kleinere gedeelten of levels. Deze levels bieden uitdagingen voor de speler, zoals vijanden of puzzels. Verder kan er ook afhankelijk van het soort spel een verhaallijn verteld worden.
+Veel levels worden ontwikkeld met zogeheten leveleditors. Dit zijn computerprogramma's waarmee de aspecten van een level vormgegeven kunnen worden. Een level bestaat vaak uit losse onderdelen, zoals muziek, 3D-objecten, "textures", enzovoort. Deze worden met een leveleditor samengevoegd tot een geheel.
+Levels kunnen tevens worden gecreëerd met een levelgenerator die willekeurig het level samenstelt. Hierdoor verandert het spel telkens en is geen enkele keer spelen voorspelbaar.
+Vereisten.
+Sommige spellen hebben een snelle computer nodig en de systeemeisen worden steeds zwaarder. Een gemiddeld (nieuw) spel voor de pc kost ongeveer € 45-50, voor de Switch ongeveer € 40-50 en voor de Xbox One en de PlayStation 4 ongeveer € 50-60. Omdat een lineair spel gemiddeld rond de 15-20 uur gameplay heeft, wordt gamen gezien als een relatief dure hobby. Maar van veel spellen wordt ongeveer 6 maanden na uitgave de prijs geleidelijk verlaagd, meestal tot € 10 of € 20. Spellen met een online-mogelijkheid hebben vaak een veel langere speelduur of wanneer deze worden uitgebreid met downloadbare inhoud (DLC).
+Via diverse spellenwebsites kunnen online computerspellen worden gespeeld, de meeste spellen zijn geprogrammeerd in Flash. Deze spellen zijn veelal gratis. Ze worden via een webbrowser gespeeld met de Adobe Flash-plug-in, Java-plugin of Unity-plugin. Deze plug-ins zorgen ervoor dat specifieke spelbestanden kunnen worden afgespeeld.
+Lokalisatie.
+Spelontwikkelaars kunnen computerspellen toespitsen op een bepaalde regio, de regio wordt gedetecteerd met lokalisatie. Dit lokaliseren naar een bepaald land kan om de afzetmarkt meer aan te spreken en om cultureel gevoelige zaken waar een taboe of een verbod op rust te vermijden. De spelversies kunnen verschillen in software en hardware, zoals tekst, taal, graphics, alsook verpakking en handleiding. Voor Europa worden veel spellen standaard vertaald naar het Duits, Spaans en Frans.
+Muziek.
+Computerspellen worden ook voorzien van muziek. Waar dit in de begindagen was beperkt tot eenvoudige melodieën, ontwikkelde dit zich eind jaren 90 van de twintigste eeuw tot volwaardige muziek met realistische instrumenten. Met de vooruitgang in technologie, groeide ook spelmuziek mee. Hierdoor was meer creatieve vrijheid mogelijk, en konden uitgebreidere stukken worden afgespeeld.
+Soorten computerspellen.
+Een tabel met computerspelgenres met enkele voorbeelden van populaire titels binnen dat genre.
+Sociaal verschijnsel.
+Op jonge leeftijd komen kinderen - in wachtruimtes en supermarkten - in aanraking met computerspellen. Een 'klantvriendelijke' winkelinrichting met speelhoek voorzien van een aanraakscherm voor digitale, al dan niet educatieve, kinderspellen zoals puzzels, memory en reken- of taalspellen, is een marketingmiddel om klanten en hun kinderen te binden aan een (winkel)merk. Fysieke computerspellen staan soms ook in speeltuinen en sportscholen.
+LAN-party's zijn evenementen waar gamers bijeen komen om te gamen over een LAN-netwerk. Deze party's zijn ontstaan in de jaren negentig toen netwerkapparatuur betaalbaar werd voor consumenten.
+Computerspellen kunnen via internet worden gespeeld. Soms hebben ze naast een modus voor alleenspelers ook een voor meerspelers. MMORPG-spellen zijn online-spellen voor meerdere spelers, zoals RuneScape, World of Warcraft of Guild Wars.
+Een partyspel of partygame is een spelgenre dat wordt gespeeld in groepen, met bekenden en/of familie, en waarmee in competitie- of samenwerkingsverband kan worden gestreden. Een partyspel op de computer bestaat vaak uit verschillende minispellen die met meerdere spelers op een beeldscherm kan worden gespeeld.
+Controverse.
+Normering.
+Computerspellen zoals Second Life kunnen ook zorgen voor een verschuiving van normen in sociaal opzicht.
+Geweld.
+Vanuit verschillende hoeken wordt kritiek geuit op computerspellen waar (expliciet) geweld in voorkomt. Eurocommissaris Franco Fratini wilde naar aanleiding van het PlayStation 2-spel "Rule of Rose" onderzoeken of bepaalde spellen verboden konden worden. Dit geluid werd opgepikt door de Nederlandse minister van justitie Ernst Hirsch Ballin, die eveneens zijn afschuw uitsprak over "extreem gewelddadige" spellen. In de Verenigde Staten werd al meerdere malen een verband tussen geweld en games gesuggereerd. Zowel Hillary Clinton als advocaat Jack Thompson zijn voorstander van het verbieden van bepaalde spellen met gewelddadige inhoud.
+Begin jaren 90 van de twintigste eeuw was er veel controverse over het spel "Mortal Kombat". In het vechtspel kan de speler zijn tegenstander tot bloedens toe slaan, of in een put met punten "afmaken". Dit zorgde voor veel ongeruste ouders, zowel in de VS maar ook in Europa. "Mortal Kombat II" werd in 1994 in Duitsland uit de handel gehaald. Het leidde tot diverse rechtszaken vanwege de extreem gewelddadige aard van het spel. Als gevolg hiervan kregen computerspellen in de VS een ESRB-label, in Australië een ACB-label, en in Europa een PEGI-label met daarop de minimale leeftijd waarvoor een spel geschikt wordt bevonden.
+Vooral de beruchte GTA-reeks is bekend om de gewelddadige inhoud. In het spel kan de speler onschuldige burgers doden. In Thailand is "Grand Theft Auto IV" om deze reden verboden. Vaak wordt dan ook deze populaire reeks, of een ander spel van hetzelfde genre, gebruikt als zondebok bij een schietincident. Er wordt dan gezegd dat de betreffende persoon gewelddadige spellen speelt en dat dit de oorzaak is van het incident. De relatie tussen geweld en het spelen van computerspellen is echter door wetenschappelijk onderzoek als onwaar aangetoond.
+Verslaving.
+Bepaalde genres, met name MMORPG-computerspellen (massively multiplayer online role playing games), zouden een verslavende werking op de spelers kunnen hebben.
+Er is weinig wetenschappelijk onderzoek gedaan naar gameverslaving. Ook wordt gameverslaving in veel landen niet erkend als een verslaving.
+Bestverkopende computerspellen.
+Voor de pc is het bestverkopende spel "The Sims" van Electronic Arts en Maxis.
+Voor de Wii is dit "Wii Sports" van Nintendo. Het feit dat deze game in Europa bij de aanschaf van een Wii-systeem meegeleverd werd, heeft bijgedragen aan het succes.
+Voor de PlayStation 3 is dit "Grand Theft Auto V" en voor de Xbox 360 is dit "Kinect Adventures!" van Microsoft.
+Trivia.
+In 2003 was Gamen het woord van het jaar.
+

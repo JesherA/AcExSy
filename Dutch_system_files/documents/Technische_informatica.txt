@@ -1,0 +1,10 @@
+
+<doc id="66077" url="https://nl.wikipedia.org/wiki?curid=66077" title="Technische informatica">
+Technische informatica
+
+Technische informatica of computertechniek (Engels: "computer engineering" of "applied computer science") is een informaticadiscipline en een tak van de techniek die zich bezighoudt met alles wat op de grens ligt van de elektrotechniek en informatica. Computertechnici gebruiken principes uit de elektrotechniek, softwareontwerp en hardware-software-integratie. Computertechnici zijn betrokken bij de hardware- en softwareaspecten van computers, het ontwerp van microcontrollers, microprocessors, personal computers en supercomputers. De technische informatica richt zich niet alleen op hoe computersystemen zelf werken, maar ook hoe ze integreren in het grotere geheel.
+Andere belangrijke onderwerpen en toepassingen zijn: signaal- en beeldverwerking, internettechnologie, ingebedde systemen, regeltechniek, informatieoverdracht en -verwerking, VLSI-programmeren, processorontwerp en telecommunicatie.
+Iemand die hbo of universitair gediplomeerd is in de computertechniek mag een computeringenieur, een ingenieur in computersystemen of ICT-ingenieur worden genoemd. De HBO-opleidingen (historische ing. titel) werden daarvoor op de HTS verzorgd (vier jaar nominale doorlooptijd) en de WO-opleidingen (historische ir. titel) op Technische Universiteiten (vijf jaar nominale doorlooptijd).
+In tegenstelling tot bedrijfskundige informatica richt technische informatica zich nadrukkelijker op de wiskundige en natuurkundige fundamenten van computerwetenschap. Bedrijfskundige informatica richt zich meer op de inpassing van informatica in de context van informatieverwerking en -beheersing in bedrijfsprocessen met minder nadruk op wiskunde en natuurkunde.
+De computertechniek wordt toegepast op allerlei terreinen in samenleving en industrie, bijvoorbeeld in een elektriciteitscentrale, in het openbaar vervoer, in de luchtvaart en in mobiele telefonie.
+

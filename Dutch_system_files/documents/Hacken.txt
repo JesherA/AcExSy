@@ -1,0 +1,27 @@
+
+<doc id="30647" url="https://nl.wikipedia.org/wiki?curid=30647" title="Hacken">
+Hacken
+
+Hacken is een term in de informatietechnologie waarbij een persoon binnendringt in een computersysteem en het onderzoekt op de zwakke punten, zowel qua hardware als software. Deze verkenning is bedoeld om de zwakke punten van het systeem te verbeteren of juist te misbruiken en de eindgebruiker te schaden. Het woord kan ook in andere betekenissen worden gebruikt: in de vermoedelijk oorspronkelijke context betekende het een handigheidje dat vaak op gespannen voet stond met het grotere systeem maar zowel onconventioneel als effectief was. Een hack kan ook een handigheidje in het dagelijks leven zijn.
+De term hacking wordt vaak gebruikt als synoniem voor cracking of computercriminaliteit. Computertechnologen maken hierbij het onderscheid tussen het etische 'hacken' en het onetische 'cracken'.
+Oorsprong.
+De term "hacken" zou zijn ontstaan op het Amerikaanse MIT. De eerste hackers zouden studenten van de modelspoorclub van MIT, de Tech Model Railroad Club (TMRC), geweest zijn, aldus de vereniging zelf. Elke nieuwe verbinding of verbetering in de treincircuits werd een 'hack' genoemd.
+Werkwijze.
+Een typische aanpak bij een aanval op een met internet verbonden systeem bestaat uit drie stappen:
+Belgische wetgeving.
+Artikel 550bis van het Strafwetboek stelt hacking strafbaar. De wet maakt een onderscheid tussen twee vormen van hacking:
+Dit artikel werd ingevoerd bij wet van 28 november 2000 aangezien voorheen geen correcte rechtsgrond bestond om hacking te vervolgen.
+Externe hacking.
+Er is sprake van externe hacking wanneer iemand die daartoe niet gerechtigd is, zich toegang verschaft tot een informaticasysteem of zich daarin handhaaft. Er zijn dus twee mogelijkheden:
+In beide gevallen is er sprake van externe hacking. Het is niet vereist dat beide vormen zich voordoen voor het bestaan van het misdrijf van externe hacking.
+De term "informaticasysteem" moet volgens de parlementaire voorbereidingen heel breed en evolutief worden geïnterpreteerd. De memorie van toelichting definieert een informaticasysteem als "elk systeem voor opslag, verwerking of overdracht van data (computers, chipkaarten ... maar ook netwerken en delen daarvan, evenals telecommunicatiesystemen of onderdelen daarvan die een beroep doen op IT)".
+Algemeen opzet volstaat: het is voldoende dat de hacker wetens en willens de hacking pleegde. Bedrieglijk opzet is een verzwarende omstandigheid en verhoogt de straf. Volgens het grondwettelijk hof schendt dit onderscheid het gelijkheidsbeginsel niet.
+Indien men zich per ongeluk toegang verschaft tot een informaticasysteem en zich onmiddellijk terugtrekt, is er geen sprake van externe hacking.
+Het feit dat het informaticasysteem niet beveiligd was, neemt niet weg dat een toegangverschaffing strafbaar is. Zo is het verbinden van een apparaat met een onbeveiligd wifinetwerk zonder de toestemming van de titularis van dit wifinetwerk, technisch gezien strafbaar als externe hacking.
+Interne hacking.
+Men spreekt van interne hacking wanneer een persoon met bedrieglijk opzet of met het oogmerk om te schaden zijn toegangsbevoegdheid tot een informaticasysteem overschrijdt.
+Een voorbeeld hiervan is een werknemer die toegang heeft tot een deel van de server van de onderneming, maar zijn toegangsrechten overschrijdt met de bedoeling om schade aan te richten in de delen waarvoor hij geen toegangsrechten heeft (bijvoorbeeld bestanden wijzigen, vernietigen etc.).
+Volgens het hof van Cassatie is er geen sprake van interne hacking indien men zijn bevoegdheden aanwendt voor een ander doel dan toegelaten is. In dat geval zou men eventueel strafbaar kunnen zijn onder het misdrijf misbruik van vertrouwen.
+Ethisch hacken.
+Ethisch hacken is in de regel ook strafbaar: het motief van de hacker speelt immers geen rol en goede bedoelingen zijn niet relevant. Evenwel wordt door de rechtspraak en rechtsleer aangenomen dat er geen strafbaarheid is indien de hacker de Coordinated Vulnerability Disclosure Policy (beleid voor de gecoördineerde bekendmaking van kwetsbaarheden) van het Centrum voor Cybersecurity België volgt. Sommige steden, organisaties en bedrijven hebben eveneens zo'n beleid.
+

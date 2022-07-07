@@ -1,0 +1,769 @@
+DocID,Title,WikiID,In,Out
+0,Soapserie,13343,"GTST;Goede tijden, slechte tijden
+ONM;Onderweg Naar Morgen
+ATWT;As the World Turns","ATWT;As the World Turns
+BNN;Bart's Neverending Network
+RTL;Radio Télévision Luxembourg
+SBS6;Scandinavian Broadcasting System 6
+etc.;et cetera"
+1,Publiek_domein,35876,CC0;Creative Commons Publiek Domein Verklaring,"CDSM;Copyright in the Digital Single Market
+CIA;Central Intelligence Agency"
+2,Bitumen,162682,PAK;polycyclische aromatische koolwaterstoffen,"v.Chr.;voor Christus
+°C;graden celcius
+Tg;glass transition temperature"
+3,Waterschapsverkiezingen,1642900,"LTO;Land- en Tuinbouworganisatie
+T/m;Tot en met
+VBNE;Vereniging van Bos- en Natuurterreineigenaren",
+4,Edinburgh,35081,SNP;Scottish National Party,"FC;Football Club
+St;saint
+UNESCO;United Nations Educational, Scientific and Cultural Organization
+n.Chr.;na Christus
+o.a.;onder andere
+v.Chr.;voor Christus
+ONS;Office for National Statistics"
+5,Verenigd_Koninkrijk,1813,"EU;Europese Unie
+GB;Groot-Brittannië
+ID-kaart;identiteitskaart
+MP;Members of Parliament
+UK;United Kingdom
+VK;Verenigd Koninkrijk
+EU-lidmaatschap;Europese Unie-lidmaatschap","BBC;British Broadcasting Corporation
+BSkyB;British Sky Broadcasting
+EEG;Europese Economische Gemeenschap
+EMU;Economische en Monetaire Unie
+GBP;Great-Britain Pound
+ISO-code;International Organisation for Standardization-code
+ITV;Independent Television
+NAVO;Noord-Atlantische Verdragsorganisatie
+brexit;British exit
+ca.;circa
+km²;vierkante kilometer
+plc;public limited company
+tv-serie;televisie serie
+ITV-netwerk;Independent Television-netwerk"
+6,SBS6,31688,SBS6;Scandinavian Broadcasting System 6,"NPO;Nederlandse Publieke Omroep
+RTL;Radio Télévision Luxembourg
+SBS9;Scandinavian Broadcasting System 9
+TV;Televisie
+RTL 4;Radio Télévision Luxembourg 4"
+7,Koekoeksgraad,4734912,,DNA;Deoxyribonucleic acid
+8,ASML,108617,"ASM;Advanced Semiconductor Materials
+ASMI;Advanced Semiconductor Materials International
+EUV;extreem ultraviolet
+NASDAQ;National Association of Securities Dealers Automated Quotations
+PAS;Philips Automatic Stepper
+SVGL;Silicon Valley Group Lithography
+F;fluor
+nm;nanometer","AEX;Amsterdam Exchange
+AG;Aktiengesellschaft
+ASML;Advanced Semiconductor Materials Lithography
+ArF-laser;argon fluoride light amplification by stimulated emission of radiation
+CNSE;College of Nanoscale Science and Engineering
+IC;Integrated Circuit
+IMEC;Interuniversitair Micro-Electronica Centrum
+KrF;Krypton Fluoride
+NatLab;Natuurkundig Laboratorium
+SMT;Semiconductor Manufacturing Technology
+TSMC;Taiwan Semiconductor Manufacturing Company
+US;United States
+VS;Verenigde Staten
+high-NA;high numerical aperture
+laser;light amplification by stimulated emission of radiation
+mm;millimeter
+mp3;MPEG-1 Audio Layer III of MPEG-2 Audio Layer III
+nm;nanometer
+plm;plusminus
+ASM;Advanced Semiconductor Materials
+ArF;Argon fluoride
+Laser;Light Amplificatin by Stimulated Emission of Radiation
+MP;Mpeg
+NASDAQ;National Association of Securities Dealers Automated Quotations
+Nikon;Nippon Kogaku
+R&D;Research & Development
+excimer;Excited Dimer"
+9,Radiogolf,54754,RF;radiofrequentie,"AF;audio frequency
+AM;Amplitudemodulatie
+ELF;extreem lage frequentie
+FM;Frequentiemodulatie
+GHz;Giga Herz
+Hz;Herz
+SLF;Super Low Frequency
+ULF;Ultra lage frequentie
+UMTS;Universal Mobile Telecommunications System
+VLF;Very Low Frequency
+radar;radio detection and ranging"
+10,Memory_of_the_World,2714965,"IAC;International Advisory Committee
+IAC-vergaderingen;International Advisory Committee-vergaderingen","UNESCO;United Nations Educational, Scientific and Cultural Organisation"
+11,Koninklijke_Belgische_Voetbalbond,207787,"BVB;Belgische Voetbalbond
+UBSFA;Union Belge des Sociétés de Football-Association","ACFF;Association des Clubs Francophones de Football
+FIFA;Fédération Internationale de Football Association
+KBVB;Koninklijke Belgische Voetbalbond
+UEFA;Union of European Football Associations"
+12,Wim_Helsen,53313,,"OLVE;Onze-Lieve-Vrouw-van-Lourdescollege Edegem
+VARA;Vereeniging van Arbeiders Radio Amateurs
+VPRO;Vrijzinnig Protestantse Radio Omroep
+VSCD;Vereniging van Schouwburg- en Concertgebouwdirecties
+dvd;Digital Versatile Disc
+tv;televisie
+VSCD;Vereniging van Schouwburgen en Concertgebouwdirecties"
+13,Nationale_Maatschappij_der_Belgische_Spoorwegen,15869,"DRG;Deutsche Reichsbahn Gesellschaft
+IC;InterCity
+L-trein;Lokale trein
+NMBS;Nationale Maatschappij der Belgische Spoorwegen
+P-treinen;piekuurtreinen
+S-trein;Stoppen trein
+SNCB;Société Nationale des Chemins de fer Belges","HR-Rail;Human Resource-Rail
+IFB;International Freightbridge Belgium
+MIVB;Maatschappij voor het Intercommunaal Vervoer te Brussel
+NS;Nederlandse Spoorwegen
+TEC;Transport en commun
+BeNe;België-Nederland
+EU;Europese Unie
+TRW;The RailWay"
+14,BMW_Motorrad,237630,"BMW;Bayerische Motoren Werke
+CS;City Scarver
+EMW;Eisenacher Motoren Werke
+FFE;Fahrzeugfabrik Eisenach
+HP;High Performance","ABS;antiblokkeersysteem
+DDR;Duitse Democratische Republiek
+GSMhouder;Global system for mobile communications houder
+SMW;Stockdorfer Motoren- Werk
+V;Volt
+cc;cubic centimeter
+kg;kilogram
+pk;paardenkracht
+EICMA;Esposizione Internazionale Ciclo e Motociclo e Accessori
+GSM;global system for mobile communications
+GmbH;Gesellschaft mit beschränkter Haftung"
+15,Brouwerij_Barbarossa_Groningen,623429,,"N.V.;Naamloze Vennootschap
+W.;Willem"
+16,Swiebertje,46439,NCRV;Nederlandse Christelijke Radio Vereniging,"NCRV;Nederlandse Christelijke Radio Vereniging
+dvd;digital versatile disk
+tv;televisie"
+17,Rotterdam_Ahoy,73156,,"ABN;Algemene Bank Nederland
+GGD;Gemeentelijke Gezondheidsdienst
+MC;Medisch Centrum
+MTV;Music Television
+MWh;Megawattuur
+m;meter
+AMRO;Amsterdam Rotterdam
+horeca;hotel, restaurants & cafés"
+18,Pannenkoek,10755,"IHOP;International House of Pancakes
+panza;pannenkoek en pizza",
+19,American_Broadcasting_Company,208682,ABC;American Broadcasting Company,"CBS;Columbia Broadcasting System
+NBC;National Broadcasting Company"
+20,Obligatie,1247,OLO;Obligation Linéaire,ISIN-code;International Securities Identification Number-code
+21,VU_medisch_centrum,195409,"AMC;Academisch Medisch Centrum
+AZVU;Academisch Ziekenhuis Vrije Universiteit
+IGZ;Inspectie voor de Gezondheidszorg
+IOO;Instituut voor Onderwijs en Opleiden
+UMC;Universitair Medische Centra","A;Autosnelweg
+BV;Besloten Vennootschap
+IC;Intensive Care
+MS;Multiple Sclerose
+RTL;Radio Télévision Luxembourg
+VU;Vrije Universiteit
+VUmc;Vrije Universiteit medisch centrum
+e-learningmodules;electronic-learningmodules
+fte;fulltime-equivalent
+m;meter"
+22,Amsterdam,1672534,"ACTA;Academisch Centrum Tandheelkunde Amsterdam
+ADE;Amsterdam Dance Event
+AT;Amstel Televisie
+AUP;Algemeen Uitbreidingsplan
+CBS;Centraal Bureau voor de Statistiek
+GVB;Gemeentevervoerbedrijf
+IDFA;International Documentary Film festival Amsterdam
+TCA;Taxi Centrale Amsterdam
+UvA;Universiteit van Amsterdam
+VU;Vrije Universiteit
+hbo;hoger beroepsonderwijs","A;Autosnelweg
+AFAS;Applications For Administrative Solutions
+AFC;Amsterdam Football Club
+BC;Basketbalclub
+BV;Besloten Vennootschap
+EK;Europees Kampioenschap
+ICE;InterCity-Express
+ICT;Informatie en Communicatie Technologie
+IDTV;Interactieve Digitale Televisie
+KLM;Koninklijke Luchtvaart Maatschappij
+LHBTI;Lesbische, Homoseksuele, Biseksuelen, Transgender en Intersekse
+MTV;Music Television
+MVS;Man Vrouw Seksualiteit
+NFL;National Football League
+NRC;Nieuwe Rotterdamsche Courant
+OV;Openbaar Vervoer
+PKN;Protestantse kerk Nederland
+PvdA;Partij van de Arbeid
+RAI;Rijwiel- en Automobiel-Industrie
+RTV;Regionale Televisie
+SALTO;Stichting Amsterdamse Lokale Televisie Omroep
+SBS;Scandinavian Broadcasting System
+SDAP;Sociaal-Democratische Arbeiderspartij
+TV;Televisie
+UNESCO;United Nations Educational, Scientific and Cultural Organization
+horeca;hotel restaurant en cafe
+mm;millimeter"
+23,Chipset,14292,PCH;Platform Controller Hub,"AGP;Accelerated Graphics Port
+PCI-E;Peripheral Component Interconnect-Express
+PCI-slots;Peripheral Component Interconnect-slots
+USB;Universal Serial Bus
+pc;personal computer
+PCI;peripheral component interconnect"
+24,Bureau_voor_Normalisatie,271160,"BEC;Belgisch Elektrotechnisch Comité
+BIN;Belgisch Instituut voor Normalisatie
+NBN;Nederlands: Bureau voor Normalisatie
+NBN-Revue;Nederlands: Bureau voor Normalisatie-Revue","CEN;Comité Européen de Normalisation
+EN;Europese Normen
+IEC;International Electrotechnical Commission
+ISO;International Standardization Organization
+ISO-website;International Standardization Organization-website"
+25,Belgischer_Rundfunk,23175,"BHF;Belgischer Hör- und Fernsehfunk
+BRF;Belgischer Rundfunk
+DRB;Deutschsprachige Rundfunkvereinigung belgiens
+ELA;Emissions en Langue allemande
+WDR;Westdeutscher Rundfunk","ARD;Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland
+BRF1;Belgischer Rundfunk 1
+BRF2;Belgischer Rundfunk 2
+BRT;Belgische Radio- en Televisieomroep
+DAB-boeket;Digital Audio Broadcast-boeket
+DVB-T;Digital Video Broadcasting Terrestrial
+FM;Frequentie Modulatie
+FM-band;Frequentie Modulatie-band
+INR;Institut national de radiodiffusion
+KA3;Kanal 3
+L1;Limburg 1
+NIR;Nationaal Instituut voor de Radio-omroep
+RTB;Radio-Télévision Belge
+RTBF;Radio-Télévision belge de la Communauté française
+ZDF;Zweites Deutsches Fernsehen
+BRT/RTB;Belgische Radio- en Televisieomroep/Radio-Télévision belge
+DAB;Digital Audio Broadcast"
+26,Microsoft,1086,"EC;Europese Commissie
+MS;Microsoft
+pc;personal computer
+FTC;Federal Trade Commission
+IE;Internet Explorer","DOS;Dirty Operating System
+API;Application Programming Interface
+BASIC;Beginner's All-Purpose Symbolic Instruction Code
+CE;Compact Embedded
+CEO;Chief Executive Officer
+CP/M;Control Program for Microcomputers
+EU;Europese Unie
+FTC;Federal Trade Commission
+IBM;International Business Machines Corporation
+pc;personal computer
+IE;Internet Explorer
+MITS;Micro Instrumentation and Telemetry Systems
+MS-DOS;Microsoft Disk Operating System
+MSN;Microsoft Network
+MSNBC;Microsoft National Broadcasting Company
+NBC;National Broadcasting Company
+NT;New Technology
+OEM;Original equipment manufacturer
+OS;operating system
+OS/2;Operating System/2
+PC-DOS;Personal Computer Disk Operating System
+UI;user interface
+US;United States
+Win32-API;Windows 32 Application Programming Interface
+VS;Verenigde Staten
+XP;experience
+bit;binary digit
+Bit;Binary digIT"
+27,Nouvelle_Droite,5216837,,"GRECE;Groupement de Recherche et d'Études pour la Civilisation Européenne
+Alt-right;Alternative right
+GRECE;Groupement de recherche et d'études pour la civilisation européenne"
+28,Bay_Area_Rapid_Transit,940929,"AGT;automated guideway transit
+BART;Bay Area Rapid Transit
+SF;San Francisco
+SFO;San Francisco
+VS;Verenigde Staten
+Muni;Municipal","ACE;Altamont Corridor Express
+GTW;Gelenktriebwagen
+Muni;Municipal
+VTA;Valley Transportation Authority
+SFO;San Francisco"
+29,Westfalien,286538,"B;België
+D;Duitsland
+NL;Nederland","ICS;International Commission on Stratigraphy
+Ma;Mega-annum"
+30,Nederlandse_Voedsel__en_Warenautoriteit,393702,"AID;Algemene Inspectiedienst
+EZ;Economische Zaken
+KvW;Keuringsdienst van Waren
+LNV;Landbouw, Natuur en Voedselkwaliteit
+NVWA;Nederlandse Voedsel- en Warenautoriteit
+PD;Plantenziektenkundige Dienst
+RVV;Rijksdienst voor de keuring van Vee en Vlees
+VWA;Voedsel- en Warenautoriteit
+VWS;Volksgezondheid, Welzijn en Sport","RTL;Radio Télévision Luxembourg
+Wob;Wet openbaarheid van bestuur"
+31,Organisatie_voor_Islamitische_Samenwerking,776701,"OIS;Organisatie voor Islamitische Samenwerking
+VS;Verenigde Staten",
+32,Signaal_ruisverhouding,203695,"S/n;signaal-ruisverhouding
+SNR;signaal-ruisverhouding
+dB;decibel",
+33,Uitvoeringsinstituut_Werknemersverzekeringen,347815,"BKWI;Bureau Keteninformatisering Werk & Inkomen
+BVG;bedrijfsvereniging voor de gezondheidszorg
+CWI;Centrum voor Werk en Inkomen
+DETAM;bedrijfsvereniging detailhandel en ambachten
+GAK;Gemeenschappelijk Administratiekantoor
+GUO;Gemeenschappelijk Uitvoeringsorgaan
+Lisv;Landelijk instituut sociale verzekeringen
+SFB;Sociaal Fonds Bouwnijverheid
+SUWI;structuur uitvoeringsorganisatie werk en inkomen
+USZO;Uitvoeringsorganisatie Sociale Zekerheid Overheidspersoneel
+UWV;Uitvoeringsinstituut Werknemersverzekeringen
+Wazo;Wet arbeid en zorg
+zzp'ers;zelfstandigen zonder personeel","CAO;Collectieve Arbeidsovereenkomst
+CGI;Consultants to Government & Industries
+IBM;International Business Machines Corporation
+ICT;Informatie- en Communicatietechnologie
+SVB;Sociale Verzekeringsbank
+SZW;Sociale Zaken en Werkgelegenheid
+WAO;Wet Arbeidsongeschiktheidsverzekering
+WAZ;Wet Arbeidsongeschiktheidsverzekering Zelfstandigen
+WIA;Wet werk en inkomen naar arbeidsvermogen
+WW;Werkloosheidswet
+fte;fulltime-equivalent"
+34,Universiteit_van_Amsterdam,14815,"AMOLF;Atoom- en Molecuulfysica
+AUC;Amsterdam University College
+AUV;Amsterdamse Universiteits-Vereniging
+CWI;Centrum voor Wiskunde en Informatica
+Cedla;Centrum voor Studie en Documentatie van Latijns-Amerika
+GU;Gemeente Universiteit
+HvA;Hogeschool van Amsterdam
+NIKHEF;Nationaal Instituut voor subatomaire fysica
+SARA;Stichting Academisch Rekencentrum Amsterdam
+UvA;Universiteit van Amsterdam
+UvA-bibliotheekvestigingen;Universiteit van Amsterdam-bibliotheekvestigingen
+UvA-catalogus;Universiteit van Amsterdam-catalogus
+VU;Vrije Universiteit Amsterdam","ASVA;Algemene Studenten Vereniging Amsterdam
+FOM;Fundamenteel Onderzoek der Materie
+SARA;Stichting Academisch Rekencentrum Amsterdam"
+35,VN_Milieuprogramma,1038320,"CITES;Convention on the Conservation of Migratory Species of Wild Animals
+UNEP;United Nations Environment Programme
+VN;Verenigde Naties","IUCN;International Union for Conservation of Nature
+LivCom;Liveable Communities"
+36,Visual_effects,5417598,"NVX;Nederlandse Vereniging van Visual Effects Professionals
+VFX;visual effects",
+37,Wegingscurves_A_en_C,6301,,"Hz;Hertz
+dB;decibel
+dB(A);Decibel A-filter"
+38,West_Berlijn,155821,,"DDR;Duitse Democratische Republiek
+S-Bahn-passagiers;Stadtschnellbahn-passagiers
+S-Bahn-verkeer;Stadtschnellbahn-verkeer"
+39,Wet_op_de_arbeidsongeschiktheidsverzekering,91904,"AAW;Algemene Arbeidsongeschiktheidswet
+CBBS;claimbeoordelings- en borgingssysteem
+GDBM;geen duurzaam benutbare mogelijkheden
+WAO;Wet arbeidsongeschiktheidsverzekering
+WIA;Wet werk en inkomen naar arbeidsvermogen","CORV;Collectieve Rechtsvordering
+NRC;Nieuwe Rotterdamsche Courant
+UWV;Uitvoeringsinstituut Werknemersverzekeringen"
+40,Women's_Tennis_Association,12854,WTA;Women's Tennis Association,ATP;Association of Tennis Professionals
+41,Christendom,249,,NBV;Nieuwe Bijbelvertaling
+42,Massachusetts_Institute_of_Technology,42952,MIT;Massachusetts Institute of Technology,
+43,Militair,43760,"Luva;Luchtmacht Vrouwenafdeling
+Marva;Marine Vrouwenafdeling
+Milva;Militaire Vrouwenafdeling",
+44,Neurologie,36026,M.S.;multiple sclerose,
+45,Dienstplicht,33961,VVDM;Vereniging van Dienstplichtige Militairen,"CDA;Christen-Democratisch Appèl
+Milac;Militianen Actie
+VVD;Volkspartij voor Vrijheid en Democratie"
+46,Wet_medisch_wetenschappelijk_onderzoek_met_mensen,1397021,"CCMO;Centrale Commissie Mensgebonden Onderzoek
+METC's;Medisch-Ethische Toetsingcommissies
+WMO;Wet medisch-wetenschappelijk onderzoek",
+47,Orde_van_grootte,858313,"OvG;orde van grootte
+dB;decibel
+nint;nearest integer",SI;Système international d'unités
+48,TUI_Airlines,455212,,"AOC;Air Operator Certificate
+TUI;Touristik Union International"
+49,BMX,6543,BMX;Bicycle Motocross,
+50,De_Nederlandsche_Bank,51127,"DNB;De Nederlandsche Bank
+ECB;Europese Centrale Bank
+ESCB;Europees Stelsel van Centrale Banken
+ESMA;European Securities and Markets Authority
+FED;Federal Reserve
+PVK;Pensioen- en Verzekeringskamer
+Pw;Pensioenwet
+SER;Sociaal-Economische Raad
+Wft;Wet financieel toezicht
+Wtk;Wet toezicht kredietwezen","ABN;Algemene Bank Nederland
+Amro;Amsterdamsche Rotterdamsche
+BNG;Bank voor Nederlandsche Gemeenten
+ING;Internationale Nederlanden Groep
+NV;Naamloze Vennootschap
+NWB;Nederlandse Waterschapsbank
+PGGM;Pensioenfonds voor Gezondheidszorg, Geestelijke en Maatschappelijke
+RBS;Royal Bank of Scotland
+SNS;Samenwerkende Nederlandse Spaarbanken
+ABN Amro;Algemene Bank Nederland en de Amsterdam-Rotterdam Bank
+fte;Full-time equivalent"
+51,Ministerie_van_Economische_Zaken_en_Klimaat,2021968,"B30;Bezuidenhoutseweg 30
+EZ;Economische Zaken
+EZK;Economische Zaken en Klimaat
+LNV;Landbouw, Natuur en Voedselkwaliteit
+EL&I;Economische Zaken, Landbouw en Innovatie","D66;Democraten 66
+VVD;Volkspartij voor Vrijheid en Democratie"
+52,Röntgenstraling,7332,"keV;kilo-elektronvolt
+mA;milliampère
+pm;picometer
+°C;Celcius
+A;anode
+K;kathode","CT-scans;Computer Tomografie-scans
+DNA;Deoxyribonucleic Acid
+EXAFS;Extended X-ray Absorption Fine Structure
+NEXAFS;Near Edge X-ray Absorption Fine Structure
+nm;nanometer
+pc;personal computer"
+53,Koude_Oorlog,6742,"DDR;Duitse Democratische Republiek
+DVPA;Democratische Volkspartij van Afghanistan
+MAD;mutually assured destruction
+SDI;Strategic Defense Initiative
+VS;Verenigde Staten
+USSR;Union of Soviet Socialist Republics","CCP;Chinese Communist Party
+CIA;Central Intelligence Agency
+CPN;Communistische Partij van Nederland
+INF-verdrag;Intermediate-Range Nuclear Forces verdrag
+KGB;Komitet Gosudarstvennoy Bezopasnosti
+NAVO;Noord-Atlantische Verdragsorganisatie
+SALT-verdrag;Strategic Arms Limitation Talks verdrag
+SOE;Special Operations Executive
+USSR;Union of Soviet Socialist Republics
+VN;Verenigde Naties"
+54,Aandeel,26688,"AvA;Algemene vergadering van aandeelhouders
+VOC;Vereenigde Oostindische Compagnie
+VOC-aandeelhouder;Vereenigde Oostindische Compagnie-aandeelhouder
+VOC-kamer;Vereenigde Oostindische Compagnie-kamer
+bv;besloten vennootschap
+nv;naamloze vennootschap
+BV;besloten vennootschap","ING;Internationale Nederlanden Groep
+bv-recht;besloten vennootschap-recht
+flex-BV;flex-besloten vennootschap
+IPO;Initial Public Offering"
+55,Association_of_Tennis_Professionals,91162,"ATP;Association of Tennis Professionals
+ATP-kalender;Association of Tennis Professionals-kalender
+ATP-toernooien;Association of Tennis Professionals-toernooien
+ATP-tour;Association of Tennis Professionals-tour
+WTA;Women's Tennis Association","ITF;International Tennis Federation
+US;United States"
+56,Australaziatische_PGA_Tour,2011428,,"AUD;Australische dollar
+PGA;Professional Golfers Association"
+57,Canadian_Space_Agency,1427813,"ASC;agence spatiale canadienne
+CSA;Canadian Space Agency","D.C.;District of Columbia
+ISS;International Space Station
+NASA;National Aeronautics and Space Administration"
+58,Hoge_Raad_der_Nederlanden,11676,"AG;advocaten-generaal
+HR;Hoge Raad
+PG;procureur-generaal
+PHR;parket bij de Hoge Raad
+WB;wetenschappelijk bureau
+art.;artikel","BW;Burgerlijk Wetboek
+Jhr;Jonkheer
+PVV;Partij voor de Vrijheid
+e-mail;electronic mail
+mr.;meester"
+59,Hubbleconstante,381170,,"CMB;Cosmic Microwave Background
+Mpc;megaparsec
+WMAP;Wilkinson Microwave Anisotropy Probe
+km/s;kilometer per seconde"
+60,International_Nomenclature_of_Cosmetic_Ingredients,566696,"INCI;internationale naamgevingssysteem voor cosmetica-ingrediënten
+INCI-naam;internationale naamgevingssysteem voor cosmetica-ingrediënten-naam
+INCI-namen;internationale naamgevingssysteem voor cosmetica-ingrediënten-namen",
+61,Koninklijke_Landmacht,49891,"AMOL;Algemene Militaire Opleiding Luchtmobiel
+AT;avondtenue
+ATF;Afghan Territorial Force
+C-LAS;commandant Landstrijdkrachten
+CIS;Communicatie- en Informatiesystemen
+CJTF-OIR;Combined Joint Task Force - Operation Inherent Resolve
+CLAS;Commando Landstrijdkrachten
+CT;ceremonieel tenue
+CVKL;Commando Verbindingen Koninklijke Landmacht
+DGLC;Defensie Grondgebonden Luchtverdedigingscommando
+DMO;Defensie Materieel Organisatie
+DOSCO;Defensie Ondersteuningscommando
+DT;dagelijks tenue
+GLT;gelegenheidstenue
+GVT;gevechtstenue
+HRFHQ;High Readiness Forces Headquarters
+ISAF;International Security Assistance Force
+KL;Koninklijke Landmacht
+KLu;Koninklijke Luchtmacht
+KM;Koninklijke Marine
+KMar;Koninklijke Marechaussee
+MTV;Medium Tactical Vehicle
+MatlogCo;Materieellogistiek Commando Land
+NLC;Nationaal Logistiek Commando
+NTC;Nationaal Territoriaal Commando
+OOCL;Operationeel Ondersteuningscommando Land
+OTCo;Opleidings- en Trainingscommando
+OVW'ers;oorlogsvrijwilligers
+PMC;Provinciaal Militair Commandant
+RAS;Robotica en Autonome Systemen
+SLA;Schutters Lange Afstand
+SOAT;Special Operations Advisory Team
+SOF;Special Operations Forces
+eFP;enhanced Forward Presence","CBRN;Chemische, Biologische, Radiologische of Nucleaire
+COKL;Commando Opleidingen Koninklijke Landmacht
+CV;Combat Vehicle
+DAF;Doorne's Aanhangwagenfabriek
+ELCAN;Ernest Leitz Canada
+EU;Europese Unie
+GCKL;Geneeskundig Commando Koninklijke Landmacht
+ISAF;International Security Assistance Force
+JISTARC;Joint Intelligence Surveillance Target Acquisition and Reconnaissance Commando
+KCT;Korps Commandotroepen
+KTM;Kraftfahrzeuge Trunkenpolz Mattighofen
+MINUSMA;United Nations Multidimensional Integrated Stabilization Mission
+NASAMS;Norwegian Advanced Surface-to-Air Missile System
+NAVO;Noord-Atlantische Verdragsorganisatie
+NL;Nederland
+NLMARSOF;Nederlandse Maritime Special Operations Forces
+No.;numéro
+PAC;Patriot Advanced Capability
+Patriot;Phased Array Tracking Radar to Intercept On Target
+PzH;Pantserhouwitser
+THeMIS;Tracked Hybrid Modular Infantry System
+TRML;Telefunken Radar Mobil Luftraumüberwachung
+UNIFIL;Geneeskundig Commando
+UNIFIL;United Nations Interim Force in Lebanon
+UNPROFOR;United Nations Protection Force
+VN;Verenigde Naties
+mm;millimeter"
+62,Luchtverkeersleider,161035,,"VHF;Very High Frequency
+ca.;circa
+km;kilometer"
+63,Hoge_commissaris_voor_de_Vluchtelingen,50566,"UNHCR;United Nations High Commissioner for Refugees
+VN;Verenigde Naties","UNESCO;United Nations Educational, Scientific and Cultural Organisation
+VN;Verenigde Naties"
+64,UNESCO,18918,"UNESCO;United Nations Educational, Scientific and Cultural Organization",VN;Verenigde Naties
+65,CMYK,10113,"CMYK;cyan, magenta, yellow, key
+CMY-systeem;cyan, magenta, yellow, key system
+CMYK-code;cyan, magenta, yellow, key code
+CMYK-kleurenkubus;cyan, magenta, yellow, key kleurenkubus",CMY;Cyan Magenta Yellow
+66,Fast_moving_consumer_goods,278535,"CPG;consumer packaged goods
+FMCG;Fast-moving consumer goods
+CPG-term;consumer packaged goods term
+FMCG-categorie;Fast-moving consumer goods categorie",e.d.;en dergelijke
+67,Florent_Sinama_Pongolle,861729,,"Le Havre AC;Le Havre Athletic Club
+Liverpool FC;Liverpool Football Club
+UEFA;Union of European Football Associations
+AC;Athletic Club
+AS;Association Sportive
+CS;Club Sport
+FC;Football Club
+JS;Jeunesse Sportive"
+68,Grote_mogendheid,589759,"EU;Europese Unie
+VS;Verenigde Staten","IMF;Internationaal Monetair Fonds
+USSR;Union of Soviet Socialist Republics"
+69,Klein_Duimpje,58655,KHM;Kinder- und Hausmärchen,v. Chr.;voor Christus
+70,Laptop,10687,desktop-pc;desktop personal computer,"ca;circa
+desktop-pc;desktop personal computer
+kg;kilogram
+pc's;personal computers"
+71,Curaçao,21633,"ABC-eilanden;Aruba, Bonaire, Curaçao eilanden
+ANG;Antilliaanse gulden
+CLAS;Commando Landstrijdkrachten
+CZMCARIB;Commandant der Zeemacht in het Caraïbisch Gebied
+MMC;Mijnmaatschappij Curaçao
+VS;Verenigde Staten
+WIC;West-Indische Compagnie
+As;tropisch savanneklimaat
+BSh;semi-aride steppeklimaat
+FOL;Forward Operating Location","BNP;Bruto Nationaal Product
+CBS;Centraal Bureau voor de Statistiek
+DP;Democratische Partij
+Dr.;Doctor
+EU-brede;Europese Unie-brede
+F-15;Fighter-15
+F-16;Fighter-16
+FK;Forsa Kòrsou
+FOL;Frente Obrero Liberashon
+HDI;Human Development Index
+LGO;Landen en Gebieden Overzee
+MAN;Movementu Alsa Nashon
+MFK;Movementu Futuro Kòrsou
+OAC;Oud Archief Curaçao
+PAR;Partido Alternativa Real
+PDVSA;Petróleos de Venezuela Sociedad Anónima
+PNP;Partido Nashonal di Pueblo
+St.;Sint
+UNESCO;United Nations Educational, Scientific and Cultural Organisation
+US$;United States Dollar
+ca.;circa
+mm;millimetre
+o.a.;onder andere
+v.Chr.;voor Christus
+°C;graden celsius
+EU;Europese Unie
+m;Meter
+pH;pondus Hydrogenium"
+72,Schatkistpapier,530086,DTC's;Dutch Treasury Certificates,
+73,Retorica,40090,,v.Chr.;voor Christus
+74,Symptoom,69348,,SARS;Severe Acute Respiratory Syndrome
+75,Comité_Olímpico_Arubano,1841294,"COA;Comité Olímpico Arubano
+IOC;Internationaal Olympisch Comité
+NAOC;Nederlands Antilliaans Olympisch Comité",
+76,Koninklijke_Luchtvaart_Maatschappij,883,"AVOD;Audio Video on Demand
+EBC;Europe Business Class
+KLM;Koninklijke Luchtvaart Maatschappij
+KNILM;Koninklijke Nederlandsch-Indische Luchtvaart Maatschappij
+KLM-kantoor;Koninklijke Luchtvaart Maatschappij kantoor
+KLM-ongeluk;Koninklijke Luchtvaart Maatschappij ongeluk
+KLM-piloot;Koninklijke Luchtvaart Maatschappij piloot
+VS;Verenigde Staten","BOAC;British Overseas Airways Corporation
+NLM;Nederlandse Luchtvaartmaatschappij
+NV;Naamloze Vennootschap
+WBC;World Business Class
+DC-10;Douglas Craft-10
+DC-2;Douglas Craft-2
+DC-3;Douglas Craft-3
+DC-8;Douglas Craft-8
+DH;De Havilland
+EBC;Europe Business Class
+ER;Extended Range
+e-mailfunctie;elektronisch mailfunctie
+mr.;meester
+sms;Short Message Service"
+77,Spoorlijn_Boxtel___Wesel,164878,"NBDS;Noord-Brabantsch-Duitsche Spoorweg-Maatschappij
+km;kilometer","BBA;Brabantsche Buurtspoorwegen en Autodiensten
+DRG;Deutsche Reichsbahn Gesellschaft
+NS;Nederlandse Spoorwegen
+N279;niet-autosnelweg 279"
+78,Central_Intelligence_Agency,30757,"CIA;Central Intelligence Agency
+CIG;Central Intelligence Group
+CoS;Chief of Station
+DNI;Director of National Intelligence
+DO;Directorate of Operations
+DP;Directorate of Plans
+OPC;Office of Policy Coordination
+OSO;Office of Special Operations
+OSS;Office of Strategic Services
+WOB;Wet Openbaarheid van Bestuur
+CIA-agent;Central Intelligence Agency agent
+CIA-directeur;Central Intelligence Agency directeur
+Crypto AG;Crypto Arvid Gerhard
+VS;Verenigde Staten","BND;Bundesnachrichtendienst
+BVD;Binnenlandse Veiligheidsdienst
+D.C.;District of Columbia
+NRC;Nieuwe Rotterdamsche Courant
+PvdA;Partij van de Arbeid
+VS;Verenigde Staten
+lsd;Lysergsäure-diäthylamid
+BVD-medewerker;Binnenlandse Veiligheidsdienst medewerker
+MI6;Intelligence Service 6"
+79,Ecocide,5495640,,"Art.;Artikel
+EU;Europese Unie
+Art;Artikel
+EU-leden;Europese Unie-leden"
+80,Centraal_station,152926,"CS;centraal station
+Hbf;Hauptbahnhof
+hl.n.;hlavní nádraží","HSL;hogesnelheidslijn
+HSL-Noord;Hogesnelheidslijn-Noord
+NS;Nederlandse Spoorwegen"
+81,Ayrton_Senna,17064,"F1;Formule 1
+GP;Grand Prix","HANS;Head and Neck Support system
+F3;Formule 3
+GP;Grand Prix"
+82,E.T._the_Extra_Terrestrial,225165,"E.T.;Extra-Terrestrial
+VS;Verenigde Staten","MCA;Music Corporation of America
+USC;University of Southern California
+VHS;Video Home System
+o.a.;onder andere
+Benelux;België, Nederland en Luxemburg
+TV;Televisie
+WALL•E;Waste Allocation Load Lifter Earth-Class"
+83,IALA_Maritiem_Betonningsstelsel,1577494,,"IALA;International Association of Lighthouse Authorities
+IALA-stelsel;International Association of Lighthouse Authorities-stelsel
+IALA-systeem;International Association of Lighthouse Authorities-systeem
+IMO;International Maritime Organization
+SIGNI-systeem;Signalisation des Voies de Navigations Intérieuré
+SIGNI;Signalisation des Voies de Navigations intérieure"
+84,Metro_van_Berlijn,94415,"BVG;Berliner Verkehrsbetriebe
+GN-Bahn;Gesundbrunnen-Neukölln bahn
+U-Bahn;Untergrundbahn
+U1;Untergrundbahn 1
+U2;Untergrundbahn 2
+U3;Untergrundbahn 3
+U4;Untergrundbahn 4
+U5;Untergrundbahn 5
+U6;Untergrundbahn 6
+U8;Untergrundbahn 8
+ZSA;Zugfahrer-Selbstabfertigung","AEG;Allgemeine Elektricitäts-Gesellschaft
+DDR;Deutsche Demokratische Republik
+M-Bahn;Magnetbahn
+S-Bahn;Stadtschnellbahn
+VBB;Verkehrsverbund Berlijn-Brandenburg
+km/h;kilometre per hour"
+85,Dvd,10715,"GB;gigabyte
+GiB;gibibyte
+SD;SuperDisc
+cd;compact disc
+dvd;Digital Versatile Disc.
+MB;megabyte
+MMCD;MultiMedia Compact Disc
+cm;centimeter","EFM;Eight-to-Fourteen Modulation
+IBM;International Business Machines
+MB;megabyte
+MMCD;MultiMedia Compact Disc
+MiB;Mebibyte
+NEC;Nippon Electric Company
+NTSC;National Television Standards Committee
+PAL;Phase Alternating Line
+SI;Système international d'unités
+VHS;Video Home System
+cd-r;compact disk-recordable
+cd-rom;compact disc read-only memory
+cd-rw;compact disc rewritable
+cm;centimeter
+dvd-r;Digital Versatile Disc-recordable
+dvd-ram;Digital Versatile Disc - Random Access Memory
+dvd-rom;Digital Versatile Disc read-only memory
+hd;high definition
+rw;rewritable
+vcd;video compact disc
+3-D;3 Dimensies
+3D;3 Dimensies
+hd-dvd;hogedefinitie digital versatile disc."
+86,Koninklijke_Nederlandse_Voetbalbond,48272,"KNVB;Koninklijke Nederlandse Voetbalbond
+NVAB;Nederlandsche Voetbal en Athletiek Bond
+NVB;Nederlandse Voetbalbond",FIFA;Fédération Internationale de Football Association
+87,Platenspeler,16790,"AT;Audio Technica
+MC;moving coil
+MD;magneto-dynamische
+MM-element;moving magnet-element
+MC-element;Moving Coil-element
+MC-transformator;moving coil-transformator","EMT;Elektro-Mess-Technik
+JVC;Japan Victor Company
+MP3;Motion Picture 3
+REGA;REIph & GAndy
+Usb;Universal serial bus
+VPI;Vacuum Pressure Impregnation
+cd;compact disc
+cm;centimeter
+dj's;diskjockeys
+dvd-speler;digital versatile disk-speler
+i.p.v.;in plaats van
+lp;long play
+tpm;toeren per minuut
+Usb-platenspelers;Universal serial bus-platenspelers
+cd-speler;compact disc-speler
+dj-draaitafel;diskjockey-draaitafel
+mp3-speler;Motion Picture 3-speler
+usb-aansluiting;universal serial bus-aansluiting"
+88,Maybach,96959,,"GmbH;Gesellschaft mit beschränkter Haftung
+IAA;Internationale Automobil-Ausstellung
+NS;Nederlandse Spoorwegen
+Nm;Newton-meter
+S;Sonder
+S-Klasse;Sonder-Klasse
+cm;centimeter
+km/h;kilometer per hour
+km/uur;kilometer per uur
+o/m;omwentelingen per minuut
+pk;paardenkracht"
+89,Bestedingen,64951,NaN,NaN
+90,Fictie,59023,NaN,NaN
+91,Langpootmuggen,181981,NaN,NaN
+92,Suikerfabriek,213202,NaN,NaN
+93,Theorie,42038,NaN,NaN
